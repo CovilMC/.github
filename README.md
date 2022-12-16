@@ -1,4 +1,6 @@
 # Profile Preview
 <center>
-![](banner.png)
+  
+ ![](banner.png)
+
 </center>
