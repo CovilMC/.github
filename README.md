@@ -1,2 +1,2 @@
 # Profile Preview
- [](banner.png)
+![](banner.png)
